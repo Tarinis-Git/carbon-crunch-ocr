@@ -1,6 +1,6 @@
 # carbon-crunch-ocr
 
-# 🧾 Carbon Crunch OCR Receipt Extraction Pipeline
+# End-to-end OCR pipeline for extracting structured data from real-world receipt images using EasyOCR and OpenCV.
 
 ## 📌 Overview
 
@@ -121,6 +121,12 @@ Low-confidence fields are flagged for potential human review.
 * Filtering of noisy OCR outputs
 * Confidence penalty for invalid values
 * Reproducible pipeline with fallback data handling
+
+---
+
+## 📊 Results
+- Achieved reliable total extraction across most receipts
+- Successfully handled noisy and real-world images
 
 ---
 
