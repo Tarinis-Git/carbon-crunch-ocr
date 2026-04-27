@@ -140,7 +140,6 @@ carbon-crunch-ocr/
  ┣ 📜 CarbonCrunch_OCR.ipynb
  ┣ 📜 README.md
  ┣ 📦 carbon_crunch_outputs.zip
- ┗ 📂 sample_images/
 ```
 
 ---
